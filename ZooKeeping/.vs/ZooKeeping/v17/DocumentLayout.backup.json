@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kien\\source\\ZooKeeping\\ZooKeeping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16AFF168-720F-4B3F-B443-291A81D5D708}|ZooKeeping\\ZooKeeping.csproj|c:\\users\\kien\\source\\zookeeping\\zookeeping\\zookeeping\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16AFF168-720F-4B3F-B443-291A81D5D708}|ZooKeeping\\ZooKeeping.csproj|solutionrelative:zookeeping\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AFF168-720F-4B3F-B443-291A81D5D708}|ZooKeeping\\ZooKeeping.csproj|c:\\users\\kien\\source\\zookeeping\\zookeeping\\zookeeping\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{16AFF168-720F-4B3F-B443-291A81D5D708}|ZooKeeping\\ZooKeeping.csproj|solutionrelative:zookeeping\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AFF168-720F-4B3F-B443-291A81D5D708}|ZooKeeping\\ZooKeeping.csproj|c:\\users\\kien\\source\\zookeeping\\zookeeping\\zookeeping\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AFF168-720F-4B3F-B443-291A81D5D708}|ZooKeeping\\ZooKeeping.csproj|solutionrelative:zookeeping\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AFF168-720F-4B3F-B443-291A81D5D708}|ZooKeeping\\ZooKeeping.csproj|c:\\users\\kien\\source\\zookeeping\\zookeeping\\zookeeping\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AFF168-720F-4B3F-B443-291A81D5D708}|ZooKeeping\\ZooKeeping.csproj|solutionrelative:zookeeping\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AFF168-720F-4B3F-B443-291A81D5D708}|ZooKeeping\\ZooKeeping.csproj|c:\\users\\kien\\source\\zookeeping\\zookeeping\\zookeeping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AFF168-720F-4B3F-B443-291A81D5D708}|ZooKeeping\\ZooKeeping.csproj|solutionrelative:zookeeping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AFF168-720F-4B3F-B443-291A81D5D708}|ZooKeeping\\ZooKeeping.csproj|c:\\users\\kien\\source\\zookeeping\\zookeeping\\zookeeping\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16AFF168-720F-4B3F-B443-291A81D5D708}|ZooKeeping\\ZooKeeping.csproj|solutionrelative:zookeeping\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AFF168-720F-4B3F-B443-291A81D5D708}|ZooKeeping\\ZooKeeping.csproj|c:\\users\\kien\\source\\zookeeping\\zookeeping\\zookeeping\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AFF168-720F-4B3F-B443-291A81D5D708}|ZooKeeping\\ZooKeeping.csproj|solutionrelative:zookeeping\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kien\\source\\ZooKeeping\\ZooKeeping\\ZooKeeping\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ZooKeeping\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kien\\source\\ZooKeeping\\ZooKeeping\\ZooKeeping\\Pages\\Index.cshtml*",
+              "RelativeToolTip": "ZooKeeping\\Pages\\Index.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T16:52:19.016Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Kien\\source\\ZooKeeping\\ZooKeeping\\ZooKeeping\\Animal.cs",
+              "RelativeDocumentMoniker": "ZooKeeping\\Animal.cs",
+              "ToolTip": "C:\\Users\\Kien\\source\\ZooKeeping\\ZooKeeping\\ZooKeeping\\Animal.cs",
+              "RelativeToolTip": "ZooKeeping\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:06:16.771Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kien\\source\\ZooKeeping\\ZooKeeping\\ZooKeeping\\Program.cs",
+              "RelativeDocumentMoniker": "ZooKeeping\\Program.cs",
+              "ToolTip": "C:\\Users\\Kien\\source\\ZooKeeping\\ZooKeeping\\ZooKeeping\\Program.cs",
+              "RelativeToolTip": "ZooKeeping\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:22:09.887Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Kien\\source\\ZooKeeping\\ZooKeeping\\ZooKeeping\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ZooKeeping\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Kien\\source\\ZooKeeping\\ZooKeeping\\ZooKeeping\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ZooKeeping\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-06T07:55:32.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kien\\source\\ZooKeeping\\ZooKeeping\\ZooKeeping\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ZooKeeping\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kien\\source\\ZooKeeping\\ZooKeeping\\ZooKeeping\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ZooKeeping\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:58:48.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kien\\source\\ZooKeeping\\ZooKeeping\\ZooKeeping\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "ZooKeeping\\Pages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kien\\source\\ZooKeeping\\ZooKeeping\\ZooKeeping\\Pages\\Create.cshtml",
+              "RelativeToolTip": "ZooKeeping\\Pages\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T04:19:30.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Kien\\source\\ZooKeeping\\ZooKeeping\\ZooKeeping\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ZooKeeping\\Pages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Kien\\source\\ZooKeeping\\ZooKeeping\\ZooKeeping\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "ZooKeeping\\Pages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:19:30.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
